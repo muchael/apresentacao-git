@@ -1,0 +1,2 @@
+git clone --depth=14 https://github.com/angular/angular-phonecat.git
+git remote add nome https://github.com/nome/projeto.git
